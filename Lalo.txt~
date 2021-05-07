@@ -1,0 +1,66 @@
+commit b48bdaa32271c98df0404c21fefbd4dcac6a66d8 (HEAD -> main, origin/main,
+origin/HEAD)
+Merge: 6c90923 08fce9a
+Author: cdgl <eeporcayo@gmail.com>
+Date:   Fri May 7 11:12:12 2021 -0500
+
+    Merge branch 'main' of https://github.com/pablopomi1/TCH1001-Pacman
+
+commit 6c90923a0e3a9386f00476e4df1129218677e583
+Merge: 8a9ba16 2697d08
+Author: cdgl <eeporcayo@gmail.com>
+Date:   Fri May 7 11:12:00 2021 -0500
+
+    Merge branch 'Listos'
+
+commit 8a9ba168a544fac0f5b96e78c8f778e16c86216f
+Merge: 5f3614a b9d712c
+Author: cdgl <eeporcayo@gmail.com>
+Date:   Fri May 7 11:11:26 2021 -0500
+
+    Listos
+
+commit b48bdaa32271c98df0404c21fefbd4dcac6a66d8 (HEAD -> main, origin/main,
+origin/HEAD)
+Merge: 6c90923 08fce9a
+commit b48bdaa32271c98df0404c21fefbd4dcac6a66d8 (HEAD -> main, origin/main,
+origin/HEAD)
+Merge: 6c90923 08fce9a
+Author: cdgl <eeporcayo@gmail.com>
+Date:   Fri May 7 11:12:12 2021 -0500
+
+    Merge branch 'main' of https://github.com/pablopomi1/TCH1001-Pacman
+
+commit 6c90923a0e3a9386f00476e4df1129218677e583
+Merge: 8a9ba16 2697d08
+Author: cdgl <eeporcayo@gmail.com>
+Date:   Fri May 7 11:12:00 2021 -0500
+
+    Merge branch 'Listos'
+
+commit 8a9ba168a544fac0f5b96e78c8f778e16c86216f
+Merge: 5f3614a b9d712c
+Author: cdgl <eeporcayo@gmail.com>
+Date:   Fri May 7 11:11:26 2021 -0500
+
+    Listos
+
+    Rm xtra files
+
+commit 2697d08b4ee66edf6bc8624bdfaba079ff4b1172 (Listos)
+Author: cdgl <eeporcayo@gmail.com>
+Date:   Fri May 7 11:08:11 2021 -0500
+
+    Listos
+
+commit 5f3614a6ff7384e92f6e44a8287b86119cbdac50
+Author: cdgl <eeporcayo@gmail.com>
+Date:   Fri May 7 11:00:28 2021 -0500
+
+    Inteligente
+
+commit ac15803b38de00c842aa7c4f2ec8b49211e18980
+Author: cdgl <eeporcayo@gmail.com>
+Date:   Fri May 7 10:55:18 2021 -0500
+
+    Inteligentei
