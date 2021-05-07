@@ -1,0 +1,19 @@
+ommit ac6484a15bb805ea3309b961efdeb8133493b9ae (HEAD -> main, origin/main,
+origin/HEAD, A01423181)
+Author: pablopomi1 <A01423181@itesm.mx>
+Date:   Fri May 7 10:01:30 2021 -0500
+
+    map and speed changes
+
+commit 3ce757ed474e5f086c5e61437d74765d51ddbf88
+Author: pablopomi1 <62619936+pablopomi1@users.noreply.github.com>
+Date:   Fri May 7 09:12:47 2021 -0500
+
+    Add files via upload
+
+commit 401d373f7af3de3fdf33554dd8a02706b875f35d
+Author: pablopomi1 <62619936+pablopomi1@users.noreply.github.com>
+Date:   Fri May 7 09:11:26 2021 -0500
+
+    Initial commit
+PS C:\Users\pomi2\Documents\TC1001 Dia 3\ejercicio 3\TCH1001-Pacman>
